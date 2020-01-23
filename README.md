@@ -5,4 +5,4 @@ Intro level. In Ukrainian.
 Дані - заяви вступників до університетів у 2019 році: https://bit.ly/2upEKNb 
 
 Частина 1: EDA, summary statistics, viz. 
-Версія на Medium: https://medium.com/p/bc8814afb69f/edit 
+Версія на Medium (з детальнішими коментарями): https://bit.ly/2U0cPyb
