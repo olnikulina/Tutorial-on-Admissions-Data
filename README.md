@@ -1,5 +1,4 @@
-# Tutorial-on-Admissions-Data
-Intro level. In Ukrainian. 
+# Mature-Students-EDA
 
 Туторіал "Як проаналізувати та візуалізувати дані про вступну кампанію в R: "дорослі" абітурієнти". 
 Дані - заяви вступників до університетів у 2019 році: https://bit.ly/2upEKNb 
